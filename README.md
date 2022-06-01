@@ -1,2 +1,2 @@
-# FaceRecognition_Android_APP
+# FaceRecognition_APP
 It is a simple face recognition Android APP
